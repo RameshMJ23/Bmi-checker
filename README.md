@@ -1,6 +1,6 @@
 # bmicalculator
 
-Basic BMI(Body Mass Index) claculator
+Basic BMI(Body Mass Index) calculator
 
 video of app: https://youtu.be/g1K_SyFFrHI
 
